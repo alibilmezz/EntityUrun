@@ -25,7 +25,7 @@ Bu uygulama, küçük ve orta ölçekli işletmeler için ürün ve stok takibin
 ### Ürün Listeleme Ekranı
 ![Ekran görüntüsü 2025-06-04 004346](https://github.com/user-attachments/assets/eef0d0d3-c41f-4cfd-bbe6-9bc65a48a992)
 
-### İstetistik Ekranı
+### İstatistik Ekranı
 ![Ekran görüntüsü 2025-06-04 004354](https://github.com/user-attachments/assets/11f357b5-e45e-4e00-9146-60346438c212)
 
 ## 👤 Geliştirici
